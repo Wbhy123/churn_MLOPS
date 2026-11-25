@@ -1,4 +1,4 @@
-# Churn Prediction – MLOps with Prefect
+# Churn Prediction – MLOps avec Prefect
 
 ## Description
 
